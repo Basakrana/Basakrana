@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Python Data analysis project**
 
-- <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/FSzLVme5Y3n3LMOiqP/giphy.webp?cid=ecf05e47kx35h5a7ecr6vtc13rwpkpe7puy13qm94w3tg63p&ep=v1_gifs_search&rid=giphy.webp&ct=g"
+- <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2owdXhvbHA3NHFrZ2h2emE3NGM4cDl6NTAyMWhjcWNpdmpqMHg4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FSzLVme5Y3n3LMOiqP/giphy.webp"
 
 - 🌱 I’m currently learning **Python Analysis tools**
 
