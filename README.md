@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29keDNnOGJsdDEzNGU5cW1oamFvZDR3Y2dqcWYzMm52dnJ4aHlrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT3i1hEJ7Eh8vtktMs/giphy.webp" alt="basakrana" /> </p>
 
 
-<h1 align="center">Hi 👋, I'm Rana Basak</h1>
+<h1 align="center">Hi Folks, I'm Rana Basak</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
 
 
