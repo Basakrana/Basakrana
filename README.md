@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **Python Data analysis project**
 
+- <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/FSzLVme5Y3n3LMOiqP/giphy.webp?cid=ecf05e47kx35h5a7ecr6vtc13rwpkpe7puy13qm94w3tg63p&ep=v1_gifs_search&rid=giphy.webp&ct=g"
+
 - 🌱 I’m currently learning **Python Analysis tools**
 
 - 👨‍💻 All of my projects are available at [https://basakrana.github.io/](https://basakrana.github.io/)
