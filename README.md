@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rana Basak</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
 
-<p align="left"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2owdXhvbHA3NHFrZ2h2emE3NGM4cDl6NTAyMWhjcWNpdmpqMHg4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FSzLVme5Y3n3LMOiqP/giphy.webp"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=basakrana&label=Profile%20views&color=0e75b6&style=flat" alt="basakrana" /> </p>
 
 - 🔭 I’m currently working on **Python Data analysis project**
 
